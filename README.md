@@ -1,2 +1,3 @@
-# ColorsPallet
-Serie 20 Projetos - html_css_Javascript - 006 - Gerador de Paletas de Cores 
+Gerador de Paletas de cores em Html Css e Javascript
+<br>
+<img src=""/>
